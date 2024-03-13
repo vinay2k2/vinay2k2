@@ -10,7 +10,7 @@
 
 - 🔭 I am a passionate about Healthcare IT.
 - 🌱 I’m currently experimenting with RAG, OPENAI, Hugging Face text based Models
-- 👯 I have a Masters by Research from IIT Kharagpur
+- 👯 I have a Masters (MS by Research) Degree from IIT Kharagpur
 
 
 ### Languages and Tools:
