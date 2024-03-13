@@ -1,5 +1,5 @@
 ### Hi there, I'm Vinay Kumar 👋 
-<img src="https://komarev.com/ghpvc/?username=vinay2k2&label=Profile%20views&color=0e75b6&style=flat" alt="vinay2k2" />
+<img src="https://komarev.com/ghpvc/?username=vinay2k2&label=Profile%20views&color=0e75b6&style=flat" alt="vinay2k2" /> Since Mar 2023
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sites.google.com/view/vinay2k2)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vinay2k2/)
