@@ -21,6 +21,7 @@
 -- PyTorch
 -- TensorFlow
 -- NLP
+-- MLOPs
 <br />
 
 ---
