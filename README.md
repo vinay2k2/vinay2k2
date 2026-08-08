@@ -1,5 +1,5 @@
-### Hi there, I'm Vinay Kumar 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=5AB8EB&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinay+Kumar; Agentic+AI+Accelerator+Coach)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=vinay2k2&label=Profile%20views&color=0e75b6&style=flat" alt="vinay2k2" /> Since Mar 2023 
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sites.google.com/view/vinay2k2)
