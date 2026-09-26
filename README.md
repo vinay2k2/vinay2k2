@@ -31,19 +31,19 @@
 ## 🚀 What I'm Currently Training Corporates on
 
 NLP
-↓
+|
 Machine Learning & Deep Learning
-↓
+|
 Large Language Models
-↓
+|
 Generative AI
-↓
+|
 RAG Systems
-↓
+|
 AI Agents
-↓
+|
 Agentic AI
-↓
+|
 Evaluation • Deployment • LLMOps
 
 ---
