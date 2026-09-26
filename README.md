@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## 🚀 What I'm Currently Training Corporates on
 
 NLP
 ↓
